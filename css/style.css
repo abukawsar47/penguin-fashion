@@ -1,0 +1,72 @@
+/* Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:wght@500;600;700;800&family=Roboto:wght@400;500;700;900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #3C3C3C;
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Montserrat', sans-serif;
+}
+section{
+    margin-bottom: 100px;
+}
+
+/* ************************ */
+/* header */
+/* ******************* */
+.header-area{
+    background-color: #FFFBF0;
+}
+.w-30{
+    width: 30%;
+}
+.header-menu{
+    color: #3C3C3C;
+    font-size: 16px;
+    font-weight: 500;
+}
+/* ****************** */
+/* banner */
+/* **************** */
+.banner-area{
+    padding-top: 50px ;
+    padding-bottom: 150px ;
+}
+.banner-heading{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 96px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+.btn-custom{
+    width: 170px;
+    height: 60px;
+    align-self: center;
+    line-height: 3;
+    background-color: #A4BC46 !important;
+    border-radius: 10px;
+    border: 0;
+}
+/* product area */
+.rounded-20px {
+    border-radius: 20px;
+}
+.pro-heading{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 58px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
